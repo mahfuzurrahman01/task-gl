@@ -1,0 +1,24 @@
+[
+    {
+      "id": 2,
+      "image": "/images/image-1.png",
+      "checked": false
+    },
+  
+    {
+      "id": 3,
+      "image": "/images/image-2.png",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "image":"/images/image-3.png",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "image": "/images/image-4.png",
+      "checked": false
+    }
+ 
+  ]
